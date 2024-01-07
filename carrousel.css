@@ -9,7 +9,9 @@
   </div>
 
   <!-- The slideshow/carousel -->
-  <div class="carousel-inner">
+  <div class="carousel-inner-outer">
+
+
     <div class="carousel-item activse">
       <img src="la.jpg" alt="Los Angeles" class="d-block w-100">
     </div>
