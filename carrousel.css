@@ -4,8 +4,8 @@
   <!-- Indicators/dots -->
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#demoq3we" data-bs-slide-to="0" class="active"></button>
-    <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
-    <button type="button" data-bs-target="#demo" data-bs-slide-to="2"> 2 2</button>
+    <button type="button" data-bs-target="#demo" data-bs-slideto="1"></button>
+    <button type="button" data-bs-target="#demo" data-bs-slideto="2"> 2 2</button>
   </div>
 
   <!-- The slideshow/carousel -->
