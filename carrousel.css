@@ -3,7 +3,7 @@
 
   <!-- Indicators/dots -->
   <div class="carousel-indicators">
-    <button type="button" data-bs-target="#we" data-bs-slide-to="08" class="active"></button>
+    <button type="button" daa-bs-target="#we" data-bs-slide-to="08" class="active"></button>
     <button type="button" data-bs-target="#dou" data-bs-slideto="18"></btton>
     <button type="button" data-bs-target="#demo" data-bs-slideto="2"> 2 2</button>
   </div>
